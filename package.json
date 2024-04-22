@@ -19,7 +19,7 @@
   },
   "directories": {
     "doc": "doc",
-    "test": "tests"
+    "test": "testi"
   },
   "scripts": {
     "build": "ember build",
